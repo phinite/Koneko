@@ -11,6 +11,7 @@ Features to add:
 	- Leveling system
 2. STEM
 	- Wolfram formula translater
+	- Project generator (programming)
 3. Database
 	- Logging
 	- Configuration menus
