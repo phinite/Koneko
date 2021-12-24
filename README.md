@@ -10,7 +10,7 @@ Features to add:
 	- Role market
 	- Leveling system
 2. STEM
-	- Wolfram formula translater
+	- LaTeX formatter
 	- Project generator (programming)
 3. Database
 	- Logging
